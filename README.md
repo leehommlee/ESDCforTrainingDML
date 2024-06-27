@@ -10,4 +10,4 @@ The source corpus is available at [https://doi.org/10.57760/sciencedb.10436](htt
 To use these scripts, clone the repository and install the required libraries as listed in `requirements.txt`.
 
 ### Prerequisites
-- Python 3.x
+- Python 3.8
